@@ -10,3 +10,6 @@ export {
   SubInfo,
 } from "./SubInfo";
 export { CircleButton, RectButton } from "./Button";
+
+export { default as DetailsDes } from "./DetailsDes";
+export { default as DetailsBid } from "./DetailsBid";
